@@ -1,0 +1,11 @@
+@Media Print {
+
+	* {
+		line-height: 0.8em;
+		font-size: 0.8em;
+	}
+	
+	label {
+		display:none;
+	}
+}

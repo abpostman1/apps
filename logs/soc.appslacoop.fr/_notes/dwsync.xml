@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="access_log" server="vps385012.ovh.net" local="132054133955429256" remote="131721048000000000" Dst="2" />
+<file name="access_log.webstat" server="vps385012.ovh.net" local="132054133958740418" remote="131721048000000000" Dst="2" />
+<file name="access_log.processed" server="vps385012.ovh.net" local="132054133960056884" remote="131721048000000000" Dst="2" />
+<file name="access_ssl_log" server="vps385012.ovh.net" local="132054133958770339" remote="131721048000000000" Dst="2" />
+<file name="access_ssl_log.processed" server="vps385012.ovh.net" local="132054133960076842" remote="131703768000000000" Dst="2" />
+<file name="access_ssl_log.webstat" server="vps385012.ovh.net" local="132054133961084151" remote="131721048000000000" Dst="2" />
+<file name="error_log" server="vps385012.ovh.net" local="132054133965402592" remote="131721048000000000" Dst="2" />
+<file name="proxy_access_log" server="vps385012.ovh.net" local="132054133966878642" remote="131721048000000000" Dst="2" />
+<file name="proxy_access_ssl_log" server="vps385012.ovh.net" local="132054133965512312" remote="131721048000000000" Dst="2" />
+<file name="proxy_error_log" server="vps385012.ovh.net" local="132054133966898599" remote="131702904000000000" Dst="2" />
+</dwsync>

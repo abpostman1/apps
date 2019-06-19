@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<flux>
+  <prods>
+    <prod>
+      <art_id>6</art_id>
+      <art_cle>ACCAAL125A</art_cle>
+      <const_ref><![CDATA[AL125A]]></const_ref>
+      <const_gar></const_gar>
+      <poids>0.004</poids>
+      <ean>4032248778331</ean>
+      <codeDouane/>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[CAPTIV URMET]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Alimentation Secteur CAPTIV URMET - AL125A]]></lib>
+      <prx_ht>87.5</prx_ht>
+      <prx_taxe>0</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>146.6</prx_public>
+      <descr_c><![CDATA[ALIM SECTEUR]]></descr_c>
+      <descr_l><![CDATA[Alimentation à découpage 12 Vcc - 4 A permanent, 5 A en pointe. Alimentation pour ventouses et centrales, et caméras basse tension. Protection par fusible interne contre les surcharges et les court-circuits. Voyant de présence secteur. Réglage de la tension de sortie par potentiomètre de 9 à 15Vcc. Boîtier en ABS noir pour montage sur rail DIN 4 modules ou murale. Dimensions (H x L x P) : 65 x 66 x 90 mm. Conforme aux normes EN50178 et EN60950.]]></descr_l>
+      <idCategorieWeb>1113</idCategorieWeb>
+      <nomCategorieWeb>Secteur</nomCategorieWeb>
+      <category>21646</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/4032248778331_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>91</art_id>
+      <art_cle>RAPARF3500</art_cle>
+      <const_ref><![CDATA[RF3500]]></const_ref>
+      <const_gar></const_gar>
+      <poids>0.24</poids>
+      <ean>5025232537655</ean>
+      <codeDouane>8527190000</codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[PANASONIC]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Radio piles ou secteur PANASONIC - RF3500]]></lib>
+      <prx_ht>25.2</prx_ht>
+      <prx_taxe>0.08</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>44.99</prx_public>
+      <descr_c><![CDATA[Radio]]></descr_c>
+      <descr_l><![CDATA[Radio portable - Réglage de la tonalité - Haut-parleur 10 cm.]]></descr_l>
+      <idCategorieWeb>900</idCategorieWeb>
+      <nomCategorieWeb>piles ou secteur</nomCategorieWeb>
+      <category>33</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/5025232537655_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[Réglage de la tonalité - Haut-parleur Ø 10 cm.]]></val>
+        </caract>
+        <caract>
+          <ordre>101</ordre>
+          <lib><![CDATA[Tuner]]></lib>
+          <val><![CDATA[Analogique]]></val>
+        </caract>
+        <caract>
+          <ordre>102</ordre>
+          <lib><![CDATA[Gamme d'ondes]]></lib>
+          <val><![CDATA[FM-PO-GO-OC]]></val>
+        </caract>
+        <caract>
+          <ordre>103</ordre>
+          <lib><![CDATA[Système audio]]></lib>
+          <val><![CDATA[mono]]></val>
+        </caract>
+        <caract>
+          <ordre>104</ordre>
+          <lib><![CDATA[Puissance]]></lib>
+          <val><![CDATA[1 Watts]]></val>
+        </caract>
+        <caract>
+          <ordre>105</ordre>
+          <lib><![CDATA[Type d'alimentation]]></lib>
+          <val><![CDATA[piles ou secteur]]></val>
+        </caract>
+        <caract>
+          <ordre>302</ordre>
+          <lib><![CDATA[Dimensions (LxHxP)]]></lib>
+          <val><![CDATA[24,4 x 14,2 x 9,2 cm]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>103</art_id>
+      <art_cle>ACTO364451</art_cle>
+      <const_ref><![CDATA[364451]]></const_ref>
+      <const_gar></const_gar>
+      <poids>0.004</poids>
+      <ean>3431043644512</ean>
+      <codeDouane></codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[TONNA]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Dérivateurs null TONNA - 364451]]></lib>
+      <prx_ht>5.28</prx_ht>
+      <prx_taxe>0</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>15.1</prx_public>
+      <descr_c><![CDATA[DERIV 4D-14DB-F  5/862 MHZ]]></descr_c>
+      <descr_l><![CDATA[Dérivateur de passage 4 directions - 2,7 / 14 dB.]]></descr_l>
+      <idCategorieWeb/>
+      <nomCategorieWeb/>
+      <category>16282</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/3431043644512_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[]]></val>
+        </caract>
+        <caract>
+          <ordre>101</ordre>
+          <lib><![CDATA[Bande de fréquences]]></lib>
+          <val><![CDATA[5 à 860 Mhz]]></val>
+        </caract>
+        <caract>
+          <ordre>102</ordre>
+          <lib><![CDATA[Nombre de sorties]]></lib>
+          <val><![CDATA[4]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>110</art_id>
+      <art_cle>SANI302002404</art_cle>
+      <const_ref><![CDATA[302002404]]></const_ref>
+      <const_gar></const_gar>
+      <poids>0.004</poids>
+      <ean>4005337104816</ean>
+      <codeDouane/>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[NILFISK]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Sac/Filtre aspirateur accessoire NILFISK - 302002404]]></lib>
+      <prx_ht>8.51</prx_ht>
+      <prx_taxe>0</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>14.99</prx_public>
+      <descr_c><![CDATA[4 SACS + 1 FILTRE A EAU POUR AERO]]></descr_c>
+      <descr_l><![CDATA[4 sacs polyester + 1 filtre à eau pour la gamme AERO]]></descr_l>
+      <idCategorieWeb>780</idCategorieWeb>
+      <nomCategorieWeb>accessoire</nomCategorieWeb>
+      <category>21538</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/4005337104816_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre/>
+          <lib><![CDATA[null]]></lib>
+          <val><![CDATA[]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>119</art_id>
+      <art_cle>ACCFFSE1540</art_cle>
+      <const_ref><![CDATA[FSE1540]]></const_ref>
+      <const_gar></const_gar>
+      <poids>0.22</poids>
+      <ean>3760163000152</ean>
+      <codeDouane></codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[CFE]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Fixations (satellite) null CFE - FSE1540]]></lib>
+      <prx_ht>10.19</prx_ht>
+      <prx_taxe>0</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>28</prx_public>
+      <descr_c><![CDATA[Fixation satellite en "L" éco. Déport 150 Ø 40]]></descr_c>
+      <descr_l><![CDATA[Fixation satellite en L éco. déport 150 d40  - col. par 6
+- Galvanisés à chaud 
+- Conditionnés dans boite carton selon le conditionnement
+- Platine de 200 x 200 mm épaisseur 3 mm
+- Tous les tubes sont de 1,5 mm
+- Partie verticale entre 300 à 450 mm de remontée
+- De diamètre 40, 50  et 60 mm 
+- Soudures réalisées en semi-automatique et non pas par points.
+]]></descr_l>
+      <idCategorieWeb/>
+      <nomCategorieWeb/>
+      <category>16273</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/3760163000152_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[]]></val>
+        </caract>
+        <caract>
+          <ordre>101</ordre>
+          <lib><![CDATA[Type]]></lib>
+          <val><![CDATA[éco]]></val>
+        </caract>
+        <caract>
+          <ordre>102</ordre>
+          <lib><![CDATA[Déport]]></lib>
+          <val><![CDATA[150 mm]]></val>
+        </caract>
+        <caract>
+          <ordre>103</ordre>
+          <lib><![CDATA[Diamètre]]></lib>
+          <val><![CDATA[40 mm]]></val>
+        </caract>
+        <caract>
+          <ordre>104</ordre>
+          <lib><![CDATA[Colisé par]]></lib>
+          <val><![CDATA[6 (prix unitaire)]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>120</art_id>
+      <art_cle>ACTO388361</art_cle>
+      <const_ref><![CDATA[388361]]></const_ref>
+      <const_gar></const_gar>
+      <poids>0.001</poids>
+      <ean>3431043883614</ean>
+      <codeDouane></codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[TONNA]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Connectique Charge TONNA - 388361]]></lib>
+      <prx_ht>0.17</prx_ht>
+      <prx_taxe>0</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>0.5</prx_public>
+      <descr_c><![CDATA[CHARGE F 75 OHMS -]]></descr_c>
+      <descr_l><![CDATA[Bouchon de charge F 75 ohms]]></descr_l>
+      <idCategorieWeb>942</idCategorieWeb>
+      <nomCategorieWeb>Charge</nomCategorieWeb>
+      <category>21651</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/3431043883614_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>153</art_id>
+      <art_cle>CAPHHD7546.20</art_cle>
+      <const_ref><![CDATA[HD7546.20]]></const_ref>
+      <const_gar></const_gar>
+      <poids>1.01</poids>
+      <ean>8710103727125</ean>
+      <codeDouane>8516710000</codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[PHILIPS]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Machine à café Filtre PHILIPS - HD7546.20]]></lib>
+      <prx_ht>44.53</prx_ht>
+      <prx_taxe>0.25</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>74.99</prx_public>
+      <descr_c><![CDATA[CAFETIERE 1000W THERM VERSEUSE METAL NOIR-NOX     ]]></descr_c>
+      <descr_l><![CDATA[Cafetière filtre 10/15 tasses isotherme - Un café toujours à bonne température sans effort ! - Verseuse en acier inoxydable incassable d'une capacité de 1.2 L - Elle s'arrête automatiquement après que le café soit passé, et le maintient au chaud pendant de nombreuses heures, sans qu'il devienne amer - Arrêt automatique - Système anti-gouttes pour retirer la verseuse à tout moment, même en cours de préparation du café - Porte-filtre pivotant amovible - Range-cordon - Puissance 1000 W - Garantie 2 ans.]]></descr_l>
+      <idCategorieWeb>94</idCategorieWeb>
+      <nomCategorieWeb>Filtre</nomCategorieWeb>
+      <category>63</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/8710103727125_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[Viva Collection-Verseuse isotherme incassable- Arrêt auto - Système anti-gouttes - Réservoir 1,2 L]]></val>
+        </caract>
+        <caract>
+          <ordre>101</ordre>
+          <lib><![CDATA[Puissance]]></lib>
+          <val><![CDATA[1000 Watts]]></val>
+        </caract>
+        <caract>
+          <ordre>107</ordre>
+          <lib><![CDATA[Capacité]]></lib>
+          <val><![CDATA[1.2 L]]></val>
+        </caract>
+        <caract>
+          <ordre>108</ordre>
+          <lib><![CDATA[Capacité cafetière]]></lib>
+          <val><![CDATA[15 Tasses]]></val>
+        </caract>
+        <caract>
+          <ordre>109</ordre>
+          <lib><![CDATA[Type de café]]></lib>
+          <val><![CDATA[Moulu]]></val>
+        </caract>
+        <caract>
+          <ordre>111</ordre>
+          <lib><![CDATA[Auto stop]]></lib>
+          <val><![CDATA[Oui]]></val>
+        </caract>
+        <caract>
+          <ordre>112</ordre>
+          <lib><![CDATA[Système anti-goutte]]></lib>
+          <val><![CDATA[Oui]]></val>
+        </caract>
+        <caract>
+          <ordre>113</ordre>
+          <lib><![CDATA[Verseuse]]></lib>
+          <val><![CDATA[Isotherme]]></val>
+        </caract>
+        <caract>
+          <ordre>114</ordre>
+          <lib><![CDATA[couleur]]></lib>
+          <val><![CDATA[noir/inox]]></val>
+        </caract>
+        <caract>
+          <ordre>202</ordre>
+          <lib><![CDATA[Lieu de fabrication]]></lib>
+          <val><![CDATA[Chine]]></val>
+        </caract>
+        <caract>
+          <ordre>203</ordre>
+          <lib><![CDATA[Le + produit]]></lib>
+          <val><![CDATA[Rangement du câble alimentation]]></val>
+        </caract>
+        <caract>
+          <ordre>301</ordre>
+          <lib><![CDATA[Dimensions (LxHxP)]]></lib>
+          <val><![CDATA[25,5 x 37 x 22,1 cm]]></val>
+        </caract>
+        <caract>
+          <ordre>302</ordre>
+          <lib><![CDATA[Poids net]]></lib>
+          <val><![CDATA[1.42 Kg]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>157</art_id>
+      <art_cle>ACJOT1512</art_cle>
+      <const_ref><![CDATA[T1512]]></const_ref>
+      <const_gar></const_gar>
+      <poids>0.22</poids>
+      <ean>3760163000138</ean>
+      <codeDouane></codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[CFE]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Fixations (terrestre) null CFE - T1512]]></lib>
+      <prx_ht>5.66</prx_ht>
+      <prx_taxe>0</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>15</prx_public>
+      <descr_c><![CDATA[Bride à tirefond de 150 (la paire)]]></descr_c>
+      <descr_l><![CDATA[Tire fond ( la paire ) - colisé par 10 paires]]></descr_l>
+      <idCategorieWeb/>
+      <nomCategorieWeb/>
+      <category>16276</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/3760163000138_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>101</ordre>
+          <lib><![CDATA[Type de fixation]]></lib>
+          <val><![CDATA[Divers]]></val>
+        </caract>
+        <caract>
+          <ordre>102</ordre>
+          <lib><![CDATA[Diamètre]]></lib>
+          <val><![CDATA[mm]]></val>
+        </caract>
+        <caract>
+          <ordre>103</ordre>
+          <lib><![CDATA[Longueur]]></lib>
+          <val><![CDATA[m]]></val>
+        </caract>
+        <caract>
+          <ordre>104</ordre>
+          <lib><![CDATA[Colisé par]]></lib>
+          <val><![CDATA[10 (prix unitaire)]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>185</art_id>
+      <art_cle>RAPHAE1530</art_cle>
+      <const_ref><![CDATA[AE1530]]></const_ref>
+      <const_gar></const_gar>
+      <poids>0.24</poids>
+      <ean>8712581398941</ean>
+      <codeDouane>8527190000</codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[PHILIPS]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Radio piles uniquement PHILIPS - AE1530]]></lib>
+      <prx_ht>12.6</prx_ht>
+      <prx_taxe>0.08</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>19.99</prx_public>
+      <descr_c><![CDATA[Radio tuner AM/FM, prise casque]]></descr_c>
+      <descr_l><![CDATA[Radio portable compacte - Réglage du volume à molette - Interrupteur marche/arrêt - Haut-parleur 4 cm - Prise casque.]]></descr_l>
+      <idCategorieWeb>899</idCategorieWeb>
+      <nomCategorieWeb>piles uniquement</nomCategorieWeb>
+      <category>33</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/8712581398941_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[Réglage du volume à molette - Interrupteur marche/arrêt - Haut-parleur 4 cm - Prise casque.]]></val>
+        </caract>
+        <caract>
+          <ordre>101</ordre>
+          <lib><![CDATA[Tuner]]></lib>
+          <val><![CDATA[Analogique]]></val>
+        </caract>
+        <caract>
+          <ordre>102</ordre>
+          <lib><![CDATA[Gamme d'ondes]]></lib>
+          <val><![CDATA[FM-AM]]></val>
+        </caract>
+        <caract>
+          <ordre>103</ordre>
+          <lib><![CDATA[Système audio]]></lib>
+          <val><![CDATA[mono]]></val>
+        </caract>
+        <caract>
+          <ordre>104</ordre>
+          <lib><![CDATA[Puissance]]></lib>
+          <val><![CDATA[0.1 Watts]]></val>
+        </caract>
+        <caract>
+          <ordre>105</ordre>
+          <lib><![CDATA[Type d'alimentation]]></lib>
+          <val><![CDATA[piles]]></val>
+        </caract>
+        <caract>
+          <ordre>302</ordre>
+          <lib><![CDATA[Dimensions (LxHxP)]]></lib>
+          <val><![CDATA[5,6 x 11,7 x 1,9 cm]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>209</art_id>
+      <art_cle>ACTO364760</art_cle>
+      <const_ref><![CDATA[364760]]></const_ref>
+      <const_gar></const_gar>
+      <poids>0.004</poids>
+      <ean>3431043647605</ean>
+      <codeDouane></codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[TONNA]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Dérivateurs null TONNA - 364760]]></lib>
+      <prx_ht>8.25</prx_ht>
+      <prx_taxe>0</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>20.7</prx_public>
+      <descr_c><![CDATA[DERIV 6D TERM-F 5/862 MHZ]]></descr_c>
+      <descr_l><![CDATA[Dérivateur terminal 6 directions - 10,5 dB.]]></descr_l>
+      <idCategorieWeb/>
+      <nomCategorieWeb/>
+      <category>16282</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/3431043647605_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[]]></val>
+        </caract>
+        <caract>
+          <ordre>101</ordre>
+          <lib><![CDATA[Bande de fréquences]]></lib>
+          <val><![CDATA[5 à 860 Mhz]]></val>
+        </caract>
+        <caract>
+          <ordre>102</ordre>
+          <lib><![CDATA[Nombre de sorties]]></lib>
+          <val><![CDATA[6]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>217</art_id>
+      <art_cle>ACTO364781</art_cle>
+      <const_ref><![CDATA[364781]]></const_ref>
+      <const_gar></const_gar>
+      <poids>0.004</poids>
+      <ean>3431043647810</ean>
+      <codeDouane></codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[TONNA]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Dérivateurs null TONNA - 364781]]></lib>
+      <prx_ht>9.69</prx_ht>
+      <prx_taxe>0</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>26.6</prx_public>
+      <descr_c><![CDATA[DERIV 8D TERM-F 5/862 MHZ]]></descr_c>
+      <descr_l><![CDATA[Dérivateur terminal 8 directions - 12 dB.]]></descr_l>
+      <idCategorieWeb/>
+      <nomCategorieWeb/>
+      <category>16282</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/3431043647810_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[]]></val>
+        </caract>
+        <caract>
+          <ordre>101</ordre>
+          <lib><![CDATA[Bande de fréquences]]></lib>
+          <val><![CDATA[5 à 860 Mhz]]></val>
+        </caract>
+        <caract>
+          <ordre>102</ordre>
+          <lib><![CDATA[Nombre de sorties]]></lib>
+          <val><![CDATA[8]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>218</art_id>
+      <art_cle>ACTO364785</art_cle>
+      <const_ref><![CDATA[364785]]></const_ref>
+      <const_gar></const_gar>
+      <poids>0.004</poids>
+      <ean>3431043647858</ean>
+      <codeDouane></codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[TONNA]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Dérivateurs null TONNA - 364785]]></lib>
+      <prx_ht>13.98</prx_ht>
+      <prx_taxe>0</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>37.9</prx_public>
+      <descr_c><![CDATA[DERIVATEUR 8D 862MHZ P:ECHELON]]></descr_c>
+      <descr_l><![CDATA[Dérivateur de passage 8 directions à pertes étagées - 12,5 à 19,5 dB.]]></descr_l>
+      <idCategorieWeb/>
+      <nomCategorieWeb/>
+      <category>16282</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/3431043647858_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[]]></val>
+        </caract>
+        <caract>
+          <ordre>101</ordre>
+          <lib><![CDATA[Bande de fréquences]]></lib>
+          <val><![CDATA[5 à 860 Mhz]]></val>
+        </caract>
+        <caract>
+          <ordre>102</ordre>
+          <lib><![CDATA[Nombre de sorties]]></lib>
+          <val><![CDATA[8]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>222</art_id>
+      <art_cle>ACVI140264</art_cle>
+      <const_ref><![CDATA[140264]]></const_ref>
+      <const_gar></const_gar>
+      <poids>3.97</poids>
+      <ean>3579431402648</ean>
+      <codeDouane></codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[CAHORS]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Paraboles null CAHORS - 140264]]></lib>
+      <prx_ht>71.03</prx_ht>
+      <prx_taxe>0.08</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>184</prx_public>
+      <descr_c><![CDATA[ANT SMC 80 UNI]]></descr_c>
+      <descr_l><![CDATA[Antenne 80 cm smc, éco, LNB universel (pièce arrière métal)]]></descr_l>
+      <idCategorieWeb/>
+      <nomCategorieWeb/>
+      <category>16272</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/3579431402648_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[]]></val>
+        </caract>
+        <caract>
+          <ordre>101</ordre>
+          <lib><![CDATA[Matière]]></lib>
+          <val><![CDATA[Fibre éco]]></val>
+        </caract>
+        <caract>
+          <ordre>102</ordre>
+          <lib><![CDATA[Diamètre]]></lib>
+          <val><![CDATA[80 cm]]></val>
+        </caract>
+        <caract>
+          <ordre>103</ordre>
+          <lib><![CDATA[LNB fourni]]></lib>
+          <val><![CDATA[Oui]]></val>
+        </caract>
+        <caract>
+          <ordre>104</ordre>
+          <lib><![CDATA[Multi-satellites]]></lib>
+          <val><![CDATA[Non]]></val>
+        </caract>
+        <caract>
+          <ordre>105</ordre>
+          <lib><![CDATA[Couleur]]></lib>
+          <val><![CDATA[Blanche]]></val>
+        </caract>
+      </caracts>
+    </prod>
+    <prod>
+      <art_id>244</art_id>
+      <art_cle>ACVI140299</art_cle>
+      <const_ref><![CDATA[140299]]></const_ref>
+      <const_gar></const_gar>
+      <poids>3.97</poids>
+      <ean>3579431402990</ean>
+      <codeDouane></codeDouane>
+      <statut></statut>
+      <partnumber></partnumber>
+      <marque><![CDATA[CAHORS]]></marque>
+      <parCombien>1</parCombien>
+      <lib><![CDATA[Paraboles null CAHORS - 140299]]></lib>
+      <prx_ht>57.02</prx_ht>
+      <prx_taxe>0.08</prx_taxe>
+      <prx_copie>0</prx_copie>
+      <prx_public>148</prx_public>
+      <descr_c><![CDATA[ANT SMC 65 UNI]]></descr_c>
+      <descr_l><![CDATA[Parabole 65 cm fibre éco. - pièce arrière métal - livrée avec bride de fixation et tête universelle]]></descr_l>
+      <idCategorieWeb/>
+      <nomCategorieWeb/>
+      <category>16272</category>
+      <imgs>
+        <img type="MOYENNE_PRINCIPALE"><![CDATA[http://www.findis.fr/data/photos/150/3579431402990_1_150.jpg]]></img>
+      </imgs>
+      <caracts>
+        <caract>
+          <ordre>0</ordre>
+          <lib><![CDATA[Description guide]]></lib>
+          <val><![CDATA[]]></val>
+        </caract>
+        <caract>
+          <ordre>101</ordre>
+          <lib><![CDATA[Matière]]></lib>
+          <val><![CDATA[Fibre éco]]></val>
+        </caract>
+        <caract>
+          <ordre>102</ordre>
+          <lib><![CDATA[Diamètre]]></lib>
+          <val><![CDATA[65 cm]]></val>
+        </caract>
+        <caract>
+          <ordre>103</ordre>
+          <lib><![CDATA[LNB fourni]]></lib>
+          <val><![CDATA[Oui]]></val>
+        </caract>
+        <caract>
+          <ordre>104</ordre>
+          <lib><![CDATA[Multi-satellites]]></lib>
+          <val><![CDATA[Non]]></val>
+        </caract>
+        <caract>
+          <ordre>105</ordre>
+          <lib><![CDATA[Couleur]]></lib>
+          <val><![CDATA[Blanche]]></val>
+        </caract>
+		<caract>
+          <ordre>105</ordre>
+          <lib><![CDATA[Toto]]></lib>
+          <val><![CDATA[Tata]]></val>
+        </caract>
+      </caracts>
+    </prod>
+  </prods>
+</flux>

@@ -1,0 +1,15 @@
+Ordre des executions :
+
+1 - POURFINDIS.PHP : sert à récupérer les produits de Magento pour identifier les Pporduits PROTECTED ; ceux qui ne doivent pas être modifiés car présents dans une offre ou le catalogue. Fichier source : [/var/www/vhosts/lacoop.fr/httpdocs/var/export/flow/pourFindis.xml] . Les données sont stockées dans la table [pourFindis]
+
+2 - PARSECAT.PHP : sert à créer l'arborescence des CATEGORIES sur la base du fichier [FINDIS_Familles.xml]. Il identifie également le parent éventuel d'une famille au cas où l'on ait besoin de déplacer une famille dans une autre depuis la table [famille_root]. A la fin du script, la racine du catalogue est ajoutée en préfixe : "Tous nos univers::1::1::1/" . Données finales stockées dans la table [familles]
+
+3 - PARSE.PHP : sert à éclater le fichier [FINDIS_Articles.xml] et créer la table [Produits]. Lors de l'execution du script, la valeur de stock est récupérée dans le fichier [exportCycleDeVie.csv]. La BIG DESCRIPTION est crée et la famille du produit récupérée dans la table [familles]. Le produit est mis à jour avec toutes ses infos à nouveau dans la table [Produits]. Récupération en fin de script de la QTY en REAPPRO dans [exportArticles.csv] et mise à jour de la finalQty dans la table [produits]
+
+4 - CONSTRUCT.PHP : script de construction du CSV final [source/$date.'_maj_findis.csv'] sur la base de la table [Produits]. Chaque produit est recherché dans la table [pourFindis] pour éluder les produits PROTECTED. Les données finales Magento sont construites - meta, short desc ... - et une vérification est effectuée en fin de script pour les catégories orphelines qui n'ont pas de parent et dont le libellé est de fait très court [(if (strlen($categories) >= 70)]
+
+
+
+!! edit 3 - [PARSEAPPRO.PHP] copie adaptée de [PARSE.PHP]. Test avec [exportArticles.csv] au lieu de [exportCycleDeVie.csv] pour récupérer la valeur de stock [en cours de réappro]. Une colonne a été ajoutée dans la table [produits]. La quantité finale disponible pour le produit est la somme de QTY et de REAPPRO
+
+
